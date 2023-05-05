@@ -1,3 +1,3 @@
 # nuxt-static-code-injection
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/nuxt-xss-oxqpn6)
+This is a demo for RCE, i'd reccomend putting it in a VM.
